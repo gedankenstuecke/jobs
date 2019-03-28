@@ -1,0 +1,11 @@
+# Jobs
+
+## PhD project: From top-down to bottom-up: Peer production as a means to citizen science throughout the research cycle.
+In typical Citizen/Community Science efforts, volunteer involvement is limited to data collection or processing, with little evidence that individual participants are empowerment or benefit from an improved understanding of science. Furthermore, the limited involvement of participants results in concerning power asymmetries – especially in health and human subjects research. Mechanism of commons-based peer production and its key characteristics (sharing, intrinsic positive motivation, openness, collaboration, bottom-up innovation, community accountability) are known to facilitate equitable and effective ways of production, e.g. in Wikipedia, Open Street Map and Open Source at large. 
+
+In this project we will investigate if and how the principles of commons-based peer production can be utilized to enable better participant involvement across the research cycle in citizen science projects. To that end, we will collect qualitative and quantitative data on how a variety of existing citizen science efforts use peer production characteristics in their design. Analyzing these data will enable us to learn how peer-production methods affect learning and empowerment outcomes for volunteer participants. Based on those results we will model an intervention in which we will implement successful peer production characteristics in citizen science communities and study whether this leads to an improvement in participant outcomes.
+
+A more detailed description of the research proposal and its aims can be found here.
+
+## About the Lab
+My work aims to bring together topics that span a broad range from biology over citizen/community science to open science/source methodology. Focussing on the field of personalized medicine and personal data re-use, I work across various projects to implement open science ideas and participatory frameworks into citizen/community science projects. Generally, I'm interested in opening up the research process to make it more participatory and inclusive, enabling and empowering citizen scientists to take a more active role in all stages of the process of doing research.
