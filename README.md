@@ -8,6 +8,8 @@ In typical Citizen/Community Science efforts, volunteer involvement is limited t
 
 In this project we will investigate if and how the principles of commons-based peer production can be utilized to enable better participant involvement across the research cycle in citizen science projects. To that end, we will collect qualitative and quantitative data on how a variety of existing citizen science efforts use peer production characteristics in their design. Analyzing these data will enable us to learn how peer-production methods affect learning and empowerment outcomes for volunteer participants. Based on those results we will model an intervention in which we will implement successful peer production characteristics in citizen science communities and study whether this leads to an improvement in participant outcomes.
 
+Due to its nature, the project is highly collaborative, decentralized and interdisciplinary. It involves understanding and working closely with a diverse group of citizen science communities across scientific disciplines, with a focus on the biological & natural sciences. It also involves research into the governance models of citizen science & commons-based peer production, relying on science, technology and society studies. Furthermore, for the collection and analysis of the qualitative and quantitative data methods of both the social sciences as well as statistics/data sciences will be employed. 
+
 [A more detailed description of the research proposal is available](proposal_details.pdf).
 
 ## About the Employer
