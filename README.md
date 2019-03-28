@@ -20,9 +20,9 @@ The Bettencourt Schueller Foundation has been an essential and key supporting pa
 
 The CRI develops educational programs together with the Sorbonne Paris Cité University (Paris Descartes University and Paris Diderot University). A wide range of partners accompany the CRI including the European fund, “Les programmes d’Investissements d’Avenir”  and the town council of Paris.
 
-More info: https://research.cri-paris.org.
+More info: [https://research.cri-paris.org](https://research.cri-paris.org).
 
 ## Contact Details
-email: bgreshake@googlemail.com
-phone: +1 (510) 944 4298
+email: bgreshake@googlemail.com</br>
+phone: +1 (510) 944 4298</br>
 web: https://tzovar.as
