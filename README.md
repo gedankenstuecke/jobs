@@ -23,6 +23,8 @@ The CRI develops educational programs together with the Sorbonne Paris Cité Uni
 More info: [https://research.cri-paris.org](https://research.cri-paris.org).
 
 ## Contact Details
-email: bgreshake@googlemail.com</br>
-phone: +1 (510) 944 4298</br>
+email: bgreshake@googlemail.com
+
+phone: +1 (510) 944 4298
+
 web: https://tzovar.as
