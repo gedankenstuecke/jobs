@@ -28,8 +28,13 @@ The CRI develops educational programs together with the Sorbonne Paris Cité Uni
 More info: [https://research.cri-paris.org](https://research.cri-paris.org).
 
 ## Contact Details
+
+Bastian Greshake Tzovaras
+
 email: [bgreshake@googlemail.com](mailto:bgreshake@googlemail.com)
 
 phone: +1 (510) 944 4298
 
-web: [https://tzovar.as](https://tzovar.as)
+web: [https://tzovar.as](https://tzovar.as/)
+
+twitter: [@gedankenstuecke](https://www.twitter.com/gedankenstuecke)
