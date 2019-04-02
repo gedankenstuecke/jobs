@@ -3,7 +3,7 @@ We are looking for a PhD candidate to join us at the Center for Research and Int
 
 Interested candidates should submit a brief CV and motivation letter to [bgreshake@googlemail.com](mailto:bgreshake@googlemail.com) so that we can discuss the project and further application procedures.
 
-* Application deadline: mid-April
+* Application deadline: **Submit your CV by April 5**.
 * Starting date: September 2019
 
 ## Project Details: From top-down to bottom-up: Peer production as a means to citizen science throughout the research cycle.
