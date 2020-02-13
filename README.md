@@ -1,40 +1,20 @@
-# Open Jobs
-We are looking for a PhD candidate to join us at the Center for Research and Interdisciplinarity (CRI) in Paris. We are searching for individuals with a strong interest in citizen science or community science who are keen to explore how digitally mediated interactions can lead to new forms of interactions and empower individuals. The ideal candidate has a background in the natural or social sciences and brings some prior experience in community building or working on citizen science/open projects (e.g. open source, Wikipedia etc.). Furthermore, they thrive in interdisciplinary environments, like to interact with diverse peers, comfortably mix disciplines and wish to explore uncharted domains. The position is funded for 3 years and can be [pursued through the FIRE Doctoral School](https://cri-paris.org/fire/).
+# Open Postdoc Position at CRI Paris
 
-Interested candidates should submit a brief CV and motivation letter to [bgreshake@googlemail.com](mailto:bgreshake@googlemail.com) so that we can discuss the project and further application procedures.
+The Peer-Produced Research Lab group from CRI (INSERM U1284) is hiring a 2-year post-doc, working with Bastian Greshake Tzovaras. Start date: July - Sept 2020.
 
-* Application deadline: **Submit your CV by April 5**.
-* Starting date: September 2019
+We are looking for a post-doctoral fellow to work on a multi-disciplinary project studying the implementation of commons-based peer production (decentralized and cooperative knowledge production) in citizen science. Specifically, we aim to evaluate the parameters for successfully implementing commons-based peer production to enable the bottom-up creation of citizen science projects out of disparate communities of interest and scaling up personal n=1 experiments. We are especially interested in exploring how digitally mediated interactions can lead to new forms of interactions and empower individuals in these settings. 
 
-## Project Details: From top-down to bottom-up: Peer production as a means to citizen science throughout the research cycle.
-In typical Citizen/Community Science efforts, volunteer involvement is limited to data collection or processing, with little evidence that individual participants are empowerment or benefit from an improved understanding of science. Furthermore, the limited involvement of participants results in concerning power asymmetries – especially in health and human subjects research. Mechanism of commons-based peer production and its key characteristics (sharing, intrinsic positive motivation, openness, collaboration, bottom-up innovation, community accountability) are known to facilitate equitable and effective ways of production, e.g. in Wikipedia, Open Street Map and Open Source at large.
+The ideal candidate has a background in the social sciences and brings some prior experience with investigating communities or working on citizen science or peer-produced projects (e.g. open source, Wikipedia etc.). 
+The candidate should have a PhD as well as at least one peer-reviewed publication as main author in either of the following disciplines: communication studies, (political) economy, information sciences, computer science, natural sciences, psychology, computational social sciences, sociology or a different discipline which would allow them to contribute to projects related to:
 
-In this project we will investigate if and how the principles of commons-based peer production can be utilized to enable better participant involvement across the research cycle in citizen science projects. To that end, we will collect qualitative and quantitative data on how a variety of existing citizen science efforts use peer production characteristics in their design. Analyzing these data will enable us to learn how peer-production methods affect learning and empowerment outcomes for volunteer participants. Based on those results we will model an intervention in which we will implement successful peer production characteristics in citizen science communities and study whether this leads to an improvement in participant outcomes.
+- Citizen/community science: invite participants to become a researcher for their own experiments and consider their lives as a research lab for conducting daily experiments.
+- Theory building: develop frameworks for how lessons on commons-based peer production from a variety of other fields could be translated to citizen/community science
+- Action Research: maximize participation in community science projects, taking into account the contexts and limitations of the community 
+- Evidence-based research: Identify "what works" and "what doesn't work" when trying to implement hallmarks of commons-based peer production in a citizen science setting, using qualitative and/or quantitative methodologies.
 
-Due to its nature, the project is highly collaborative, decentralized and interdisciplinary. It involves understanding and working closely with a diverse group of citizen science communities across scientific disciplines, with a focus on the biological & natural sciences. It also involves research into the governance models of citizen science & commons-based peer production, relying on science, technology and society studies. Furthermore, for the collection and analysis of the qualitative and quantitative data methods of both the social sciences as well as statistics/data sciences will be employed.
+More information about the research activities of the Peer-Produced Research Lab group can be found [on our website](https://research.cri-paris.org/teampage?id=5d809b499a474e063faa3a1a) and [our larger research proposal](proposal_details.pdf)).
 
-[A more detailed description of the research proposal is available](proposal_details.pdf).
+The successful candidate will join the CRI’s growing [Collaboratory](https://research.cri-paris.org/) within our dedicated building at the historical heart of Paris (the Marais). This 5300m2 building includes state-of-the-art office and wet-lab space, microfabrication and Makerspace, Mobile and Virtual Reality technology, Game design, MOOC/online content development, pedagogic facilities and studio apartments for students and young researchers.
+The core mission of the [Center for Research and Interdisciplinarity (CRI)](https://cri-paris.org/) is to transform the way to research and acquire, share and co-create knowledge across the life, learning, and digital sciences. We are guided by the UN Sustainable Development Goals towards high-impact work on specific topics combining biomedicine, natural sciences, education, and digital transformation. 
 
-## About the Employer
-
-The Center for Research and Interdisciplinarity (CRI) experiments and spreads new ways of learning, teaching, conducting research and mobilizing collective intelligence in life, learning and digital sciences. The core mission of the CRI is to transform the way to research and acquire, share and co-create knowledge across the life, learning, and digital sciences. We are building a research collaboratory – up to 60 scientists, postdocs, PhD/master students working closely together on diverse but mutually complementary range of topics. We are guided by UN Sustainable Development Goals towards high-impact work on specific topic combining biomedicine, natural sciences, education, and digital transformation.
-
-The CRI was founded in 2005 by François Taddei and Ariel Lindner.
-
-The Bettencourt Schueller Foundation has been an essential and key supporting partner since the CRI was created.
-
-The CRI develops educational programs together with the Sorbonne Paris Cité University (Paris Descartes University and Paris Diderot University). A wide range of partners accompany the CRI including the European fund, “Les programmes d’Investissements d’Avenir”  and the town council of Paris.
-
-More info: [https://research.cri-paris.org](https://research.cri-paris.org).
-
-## Contact Details
-
-Bastian Greshake Tzovaras
-
-email: [bgreshake@googlemail.com](mailto:bgreshake@googlemail.com)
-
-phone: +1 (510) 944 4298
-
-web: [https://tzovar.as](https://tzovar.as/)
-
-twitter: [@gedankenstuecke](https://www.twitter.com/gedankenstuecke)
+**Application**: Candidates should send their CV including their publication list, a brief statement of research interests, and contact details of two referees before March 15th 2020 to Bastian Greshake Tzovaras [bastian.greshake-tzovaras@cri-paris.org](mailto:bastian.greshake-tzovaras@cri-paris.org) Informal inquiries are welcome.
